@@ -1,0 +1,2 @@
+remote.user=localhost:8090/admin/user/{id}
+remote.role=localhost:8090/admin/role/{id}
