@@ -1,14 +1,1 @@
-spring:
-  application:
-    name: config-server
-  cloud:
-    config:
-      server:
-        git:
-          uri: https://github.com/lign0214/spring-cloud-config-test.git
-#          search-paths: repo
-#          username: lign0214@163.com
-#          password: lign1986516
-
-server:
-  port: 1201
+tip=hi what's you name?
